@@ -55,7 +55,9 @@
     <Compile Include="Assets\Starter Package\CarManager.cs" />
     <Compile Include="Assets\Starter Package\PackageBehaviour.cs" />
     <Compile Include="Assets\Starter Package\DrivingSurfaceManager.cs" />
+    <Compile Include="Assets\Starter Package\GameManager.cs" />
     <Compile Include="Assets\Starter Package\PackageSpawner.cs" />
+    <Compile Include="Assets\Starter Package\UIManager.cs" />
     <Compile Include="Assets\Starter Package\CarBehaviour.cs" />
   </ItemGroup>
   <ItemGroup>
